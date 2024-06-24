@@ -12,6 +12,13 @@
 * [ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)  
   上游專案
 
+## 教學文件
+
+以下列舉本主題相關的教學文件：
+
+* （開發中）[How to install whisper.cpp on Ubuntu](https://gitlab.com/brlin/whisper.cpp-ubuntu-installation-howto)  
+  說明如何乾淨地於 Ubuntu+Linux 作業系統上安裝 whisper.cpp 軟體
+
 <!--
 ## 基本概念
 

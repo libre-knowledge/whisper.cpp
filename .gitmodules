@@ -12,3 +12,7 @@
 	url = https://github.com/ggerganov/whisper.cpp.git
 	shallow = true
 	fetchRecurseSubmodules = false
+[submodule "How to install whisper.cpp on Ubuntu"]
+	path = How to install whisper.cpp on Ubuntu
+	url = https://gitlab.com/brlin/whisper.cpp-ubuntu-installation-howto.git
+	ignore = dirty
