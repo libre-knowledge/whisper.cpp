@@ -10,6 +10,7 @@
 [submodule "whisper.cpp: Port of OpenAI's Whisper model in C/C++"]
 	path = whisper.cpp: Port of OpenAI's Whisper model in C, C++
 	url = https://github.com/ggerganov/whisper.cpp.git
+	ignore = dirty
 	shallow = true
 	fetchRecurseSubmodules = false
 [submodule "How to install whisper.cpp on Ubuntu"]
