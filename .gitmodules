@@ -17,3 +17,7 @@
 	path = How to install whisper.cpp on Ubuntu
 	url = https://gitlab.com/brlin/whisper.cpp-ubuntu-installation-howto.git
 	ignore = dirty
+[submodule "Unofficial snap packaging for whisper.cpp"]
+	path = Unofficial snap packaging for whisper.cpp
+	url = https://gitlab.com/brlin/whisper.cpp-snap.git
+	ignore = dirty

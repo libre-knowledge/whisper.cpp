@@ -11,6 +11,8 @@
 
 * [ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)  
   上游專案
+* （開發中）[Unofficial snap packaging for whisper.cpp](https://gitlab.com/brlin/whisper.cpp-snap)  
+  Provides easy access to the whisper.cpp application on snap-enabled OS distributions.
 
 ## 教學文件
 
