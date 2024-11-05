@@ -11,7 +11,7 @@
 
 * [ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)  
   上游專案
-* （開發中）[Unofficial snap packaging for whisper.cpp](https://gitlab.com/brlin/whisper.cpp-snap)  
+* [Unofficial snap packaging for whisper.cpp](https://gitlab.com/brlin/whisper.cpp-snap)  
   Provides easy access to the whisper.cpp application on snap-enabled OS distributions.
 * （開發中）[media-to-whisper.cpp-subtitles](https://gitlab.com/brlin/media-to-whisper.cpp-subtitles)  
   自動地將指定的媒體檔案使用 Whisper.cpp 產生字幕檔案
