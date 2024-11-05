@@ -21,3 +21,7 @@
 	path = Unofficial snap packaging for whisper.cpp
 	url = https://gitlab.com/brlin/whisper.cpp-snap.git
 	ignore = dirty
+[submodule "media-to-whisper.cpp-subtitles"]
+	path = media-to-whisper.cpp-subtitles
+	url = https://gitlab.com/brlin/media-to-whisper.cpp-subtitles.git
+	ignore = dirty
