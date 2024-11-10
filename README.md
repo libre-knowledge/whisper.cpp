@@ -38,6 +38,8 @@
 
 * [ggerganov/whisper.cpp: Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)  
   專案網站
+* [使用 C++ 進行深度學習的語音辨識：Whisper.cpp – vimL Blog](https://viml.nchc.org.tw/whisper-cpp/)  
+  台灣中文的介紹文章
 
 ---
 
