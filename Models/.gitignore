@@ -1,0 +1,16 @@
+# Version Tracking Ignore Rules for Git VCS
+# https://git-scm.com/docs/gitignore
+#
+# Exclude files not suitable for version tracking in Git
+#
+# This file is based on The Common .gitignore Templates
+# https://github.com/the-common/gitignore-templates
+#
+# Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
+# SPDX-License-Identifier: CC-BY-SA-4.0
+
+# Don't track all files except for README
+*
+.*
+!.gitignore
+!README*.md
